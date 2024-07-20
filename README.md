@@ -29,7 +29,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 - Math 279 - Linear Algebra for Data Science (4 units; UC/CSU)
 - CIS 219 - Introduction to Oracle: SQL and PL/SQL (3 units; UC/CSU)
  
-❗Information about **our certificate [here](https://www.lacc.edu/academics/aos/statistical-data-analytics)**
+❗ Information about **our certificate [here](https://www.lacc.edu/academics/aos/statistical-data-analytics)**
  
  🌱 I’m currently learning **Machine Learning (ML), Deep Learning (DL), Artificial Intelligence, and AWS**
 
@@ -47,11 +47,11 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 </div>
 
 <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,Colab,vscode,github,r,jupyter,python,c" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,Colab,vscode,github,r,jupyter,python,c" alt="Languages, Frameworks, and Tools" />
 </div>
 
 <br/>
@@ -61,7 +61,6 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pineda0021/pineda0021/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
@@ -69,21 +68,22 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-pineda0021.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-pineda0021.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-pineda0021.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-pineda0021.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-pineda0021.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" src="https://github-readme-stats-pineda0021.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
 
 <hr/>
 
-<br/>
-
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
+    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
 </div>
 
 <br/>
+

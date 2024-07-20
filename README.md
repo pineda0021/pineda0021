@@ -13,6 +13,19 @@
  🔭 I’m currently working on **a Statistical Data Analytics Certificate/Program**
 
 This program not only prepares students to develop predictive models, evaluate the effectiveness of different interventions and strategies, and mitigate risks and anomalies in data, but also equips students with practical skills in data visualization and experience using programming tools such as Python and R. Students will acquire the skills to communicate complex statistical information to a variety of stakeholders effectively, and ultimately, to equip students for success in the data-driven world. 
+
+Our Certificate under the Mathematics Department consists only of (19 units) Completion.
+Fall - Year One:
+       Math 217 - Fundamentals of Mathematical Programming (4 units; UC/CSU)
+
+       Math 229 - Statistics for Data Science (4 units; UC/CSU)
+
+Spring - Year One:
+       Math 239 - Applied Data Science (4 units; UC/CSU)
+
+       Math 279 - Linear Algebra for Data Science (4 units; UC/CSU)
+
+       CIS 219 - Introduction to Oracle: SQL and PL/SQL (3 units; UC/CSU)
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 

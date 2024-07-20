@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a Statistical Data Analytics CertificateStatistical Data Analytics**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 

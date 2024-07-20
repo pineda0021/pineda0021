@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Edward+Pineda-Castro!;" />
 </h1>
 
-<h3 align="center">I am a Mathematics Faculty at Los Angeles City College. My 🇨🇦</h3>
+<h3 align="center">Mathematics Faculty at Los Angeles City College</h3>
 
 <br/>
 

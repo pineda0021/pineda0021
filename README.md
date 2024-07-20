@@ -17,7 +17,9 @@ This program not only prepares students to develop predictive models, evaluate t
 Our Certificate under the Mathematics Department consists only of (19 units) Completion.
 
 Fall - Year One:
+
        Math 217 - Fundamentals of Mathematical Programming (4 units; UC/CSU)
+       
        Math 229 - Statistics for Data Science (4 units; UC/CSU)
 
 Spring - Year One:

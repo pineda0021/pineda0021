@@ -51,7 +51,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,Colab,vscode,github,r,jupyter,python,c" alt="Languages, Frameworks, and Tools" />
+    <img src="https://skillicons.dev/icons?i=react,c,vscode,r,python,bootstrap,html,github" alt="Languages, Frameworks, and Tools" />
 </div>
 
 <br/>
@@ -60,22 +60,9 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pineda0021/pineda0021/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats-pineda0021.vercel.app/?user=pineda0021&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats-pineda0021.vercel.app/api?username=pineda0021&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" src="https://github-readme-stats-pineda0021.vercel.app/api/top-langs/?username=pineda0021&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
 
 <hr/>
 

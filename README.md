@@ -18,7 +18,6 @@ Our Certificate under the Mathematics Department consists only of (19 units) Com
 
 Fall - Year One:
        Math 217 - Fundamentals of Mathematical Programming (4 units; UC/CSU)
-
        Math 229 - Statistics for Data Science (4 units; UC/CSU)
 
 Spring - Year One:

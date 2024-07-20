@@ -29,9 +29,9 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 - Math 279 - Linear Algebra for Data Science (4 units; UC/CSU)
 - CIS 219 - Introduction to Oracle: SQL and PL/SQL (3 units; UC/CSU)
  
- 🌱 I’m currently learning **Machine Learning (ML), Deep Learning (DL), Artificial Intelligence, AWS**
-
- Information about **our certificate [here](https://www.lacc.edu/academics/aos/statistical-data-analytics)**
+❗Information about **our certificate [here](https://www.lacc.edu/academics/aos/statistical-data-analytics)**
+ 
+ 🌱 I’m currently learning **Machine Learning (ML), Deep Learning (DL), Artificial Intelligence, and AWS**
 
 ⚡ Fun fact: **The Aztecs developed a sophisticated number system that used dots (•) to represent 1, bars (—) to represent 5, and a symbol resembling a flag for 20. This vigesimal (base-20) system allowed them to perform complex mathematical calculations and keep accurate records for trade, astronomy, and engineering projects.**
 
@@ -44,6 +44,37 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
   <a href="https://linkedin.com/in/edward-pineda-castro-b163b7119" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+</div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>

@@ -31,7 +31,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
  
  🌱 I’m currently learning **Machine Learning (ML), Deep Learning (DL), Artificial Intelligence, AWS**
 
-🛈 Information about **our certificate [here](https://www.lacc.edu/academics/aos/statistical-data-analytics)**
+ Information about **our certificate [here](https://www.lacc.edu/academics/aos/statistical-data-analytics)**
 
 ⚡ Fun fact: **The Aztecs developed a sophisticated number system that used dots (•) to represent 1, bars (—) to represent 5, and a symbol resembling a flag for 20. This vigesimal (base-20) system allowed them to perform complex mathematical calculations and keep accurate records for trade, astronomy, and engineering projects.**
 

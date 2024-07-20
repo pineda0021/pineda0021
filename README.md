@@ -32,14 +32,14 @@ Spring - Year One:
  
  🌱 I’m currently learning **Machine Learning (ML), Deep Learning (DL), Artificial Intelligence, AWS**
 
-💬 Ask me about **our certificate [here](https://www.lacc.edu/academics/aos/statistical-data-analytics))**
+💬 Ask me about **our certificate [here](https://www.lacc.edu/academics/aos/statistical-data-analytics)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The Aztecs developed a sophisticated number system that used dots (•) to represent 1, bars (—) to represent 5, and a symbol resembling a flag for 20. This vigesimal (base-20) system allowed them to perform complex mathematical calculations and keep accurate records for trade, astronomy, and engineering projects.**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:pinedaem@laccd.edu">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">

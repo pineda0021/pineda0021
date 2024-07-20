@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Statistical Data Analytics Certificate/Program**
+ 🔭 Our Mathematics Deparment is currently working on **a Statistical Data Analytics Certificate/Program**
 
 This program not only prepares students to develop predictive models, evaluate the effectiveness of different interventions and strategies, and mitigate risks and anomalies in data, but also equips students with practical skills in data visualization and experience using programming tools such as Python and R. Students will acquire the skills to communicate complex statistical information to a variety of stakeholders effectively, and ultimately, to equip students for success in the data-driven world.
 
@@ -51,7 +51,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,Colab,vscode,github,r,jupyter,python,c" alt="Languages, Frameworks, and Tools" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,vscode,github,r,python,c" alt="Languages, Frameworks, and Tools" />
 </div>
 
 <br/>
@@ -69,10 +69,10 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats-pineda0021.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats-pineda0021.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="390" src="https://github-readme-streak-stats-pineda0021.vercel.app/?user=pineda0021&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-pineda0021.vercel.app/api?username=pineda0021&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width="325" src="https://github-readme-stats-pineda0021.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" src="https://github-readme-stats-pineda0021.vercel.app/api/top-langs/?username=pineda0021&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>

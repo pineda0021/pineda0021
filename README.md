@@ -23,15 +23,16 @@ Fall - Year One:
        Math 229 - Statistics for Data Science (4 units; UC/CSU)
 
 Spring - Year One:
+
        Math 239 - Applied Data Science (4 units; UC/CSU)
 
        Math 279 - Linear Algebra for Data Science (4 units; UC/CSU)
 
        CIS 219 - Introduction to Oracle: SQL and PL/SQL (3 units; UC/CSU)
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Machine Learning (ML), Deep Learning (DL), Artificial Intelligence, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **our certificate [here](https://www.lacc.edu/academics/aos/statistical-data-analytics))**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 

@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Statistical Data Analytics Certificate/Program**
+ 🔭 Our Mathematics is currently working on **a Statistical Data Analytics Certificate/Program**
 
 This program not only prepares students to develop predictive models, evaluate the effectiveness of different interventions and strategies, and mitigate risks and anomalies in data, but also equips students with practical skills in data visualization and experience using programming tools such as Python and R. Students will acquire the skills to communicate complex statistical information to a variety of stakeholders effectively, and ultimately, to equip students for success in the data-driven world.
 
@@ -51,7 +51,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,vscode,github,r,python,c,java" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,vscode,github,r,python,c,java,c++" />
 </div>
 
 <br/>

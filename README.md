@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 Our Mathematics is currently working on **a Statistical Data Analytics Certificate/Program**
+ 🔭 Our Mathematics Department is currently working on **a Statistical Data Analytics Certificate/Program**
 
 This program not only prepares students to develop predictive models, evaluate the effectiveness of different interventions and strategies, and mitigate risks and anomalies in data, but also equips students with practical skills in data visualization and experience using programming tools such as Python and R. Students will acquire the skills to communicate complex statistical information to a variety of stakeholders effectively, and ultimately, to equip students for success in the data-driven world.
 
@@ -31,7 +31,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
  
 ❗ Information about **our certificate [here](https://www.lacc.edu/academics/aos/statistical-data-analytics)**
  
- 🌱 I’m currently learning **Machine Learning (ML), Deep Learning (DL), Artificial Intelligence, and AWS**
+ 🌱 I’m currently learning **Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI), and Amazon Web Services (AWS)**
 
 ⚡ Fun fact: **The Aztecs developed a sophisticated number system that used dots (•) to represent 1, bars (—) to represent 5, and a symbol resembling a flag for 20. This vigesimal (base-20) system allowed them to perform complex mathematical calculations and keep accurate records for trade, astronomy, and engineering projects.**
 

@@ -42,7 +42,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
     **Format:** Synchronous, via Zoom  
   - **Schedule 2:** Monday/Wednesday, 11:10 AM - 1:40 PM  
     **Format:** Hyflex (in-person at FH 119 or online)  
-    The Hyflex format allows students to choose between attending classes on campus or participating remotely from home, providing greater flexibility to suit their schedules and preferences.
+    The **Hyflex** format allows students to choose between attending classes on campus or participating remotely from home, providing greater flexibility to suit their schedules and preferences.
 
 **Spring - Year One:**
 

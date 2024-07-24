@@ -21,12 +21,23 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 **Fall - Year One:**
 
 - Math 217 - Fundamentals of Mathematical Programming (4 units; UC/CSU)
-  **Schedule:** Monday/Wednesday, 6:50 PM - 9:15 PM
-  **Format:** Synchronous, via Zoom
-  **Section Number:** 25437
+  
+  **Fall 2024 Course Offering:**
+  
+  The Mathematics Department is pleased to offer the following course:
+  
+  **MATH 217**
+  - **Schedule:** Monday/Wednesday, 6:50 PM - 9:15 PM  
+  - **Format:** Synchronous, via Zoom  
+  - **Section Number:** 25437
 
 - Math 229 - Statistics for Data Science (4 units; UC/CSU)
-  Math 229 will be available in two formats:
+  
+  **Fall 2024 Course Offering:**
+  
+  The Mathematics Department is pleased to offer the following course:
+  
+  **MATH 229**
   - **Schedule 1:** Monday/Wednesday, 4:00 PM - 6:35 PM  
     **Format:** Synchronous, via Zoom  
   - **Schedule 2:** Monday/Wednesday, 11:10 AM - 1:40 PM  

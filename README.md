@@ -21,12 +21,17 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 **Fall - Year One:**
 
 - Math 217 - Fundamentals of Mathematical Programming (4 units; UC/CSU)
-- Fall 2024 Mathematics Course Offering
-  The Mathematics Department is pleased to offer the following course: MATH 217 - Fundamentals of Mathematical Programming
   **Schedule:** Monday/Wednesday, 6:50 PM - 9:15 PM
   **Format:** Synchronous, via Zoom
   **Section Number:** 25437
+
 - Math 229 - Statistics for Data Science (4 units; UC/CSU)
+  Math 229 will be available in two formats:
+  - **Schedule 1:** Monday/Wednesday, 4:00 PM - 6:35 PM  
+    **Format:** Synchronous, via Zoom  
+  - **Schedule 2:** Monday/Wednesday, 11:10 AM - 1:40 PM  
+    **Format:** Hyflex (in-person at FH 119 or online)  
+    The Hyflex format allows students to choose between attending classes on campus or participating remotely from home, providing greater flexibility to suit their schedules and preferences.
 
 **Spring - Year One:**
 
@@ -41,6 +46,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 ⚡ Fun fact: **The Aztecs developed a sophisticated number system that used dots (•) to represent 1, bars (—) to represent 5, and a symbol resembling a flag for 20. This vigesimal (base-20) system allowed them to perform complex mathematical calculations and keep accurate records for trade, astronomy, and engineering projects.**
 
 </div>
+
  
 <div align="center"> 
   <a href="mailto:pinedaem@laccd.edu">

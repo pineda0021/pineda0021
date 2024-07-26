@@ -53,7 +53,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 ❗ Information about **our certificate [here](https://www.lacc.edu/academics/aos/statistical-data-analytics)**
 
  📢 **"Unlock the world of numbers! Follow our Math Department on Instagram for important information on events for both the department as well as the school, scholarships, fascinating facts, and even math jokes! Join us today and be part of the equation!"**
-     [here](https://(https://www.instagram.com/lacc_math_department/).
+     [here](https://www.instagram.com/lacc_math_department/).
  
 🌱 I’m currently learning **Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI), and Amazon Web Services (AWS)**
 

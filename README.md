@@ -54,8 +54,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 
 📢 **"Unlock the world of numbers! Follow our Math Department on Instagram for important information on events for both the department as well as the school, scholarships, fascinating facts, and even math jokes! Join us today and be part of the equation!"
 [here](https://www.instagram.com/lacc_math_department/)**
-
-<img src="https://drive.google.com/uc?export=view&id=1L3ELl9GdR32vkNmtL7mVLmy_wO8dDQKS" alt="QR Code" width="100" height="100" style="display: block; margin: 10px auto;" />
+<img src="https://drive.google.com/uc?export=view&id=1L3ELl9GdR32vkNmtL7mVLmy_wO8dDQKS" alt="QR Code" width="200" height="200" style="display: block; margin: 10px auto;" />
  
 🌱 I’m currently learning **Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI), and Amazon Web Services (AWS)**
 

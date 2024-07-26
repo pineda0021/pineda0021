@@ -77,7 +77,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://www.sas.com/content/dam/SAS/en_us/images/logos/sas-logo.png" alt="SAS" width="50" height="50" />
+    <img src="https://www.pngkit.com/png/full/22-223968_sas-logo-sas-institute-logo.png" alt="SAS" width="50" height="50" />
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,vscode,github,r,python,cpp,java,c" />
 </div>
 <br/>

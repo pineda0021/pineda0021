@@ -77,10 +77,11 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,vscode,github,java,cpp,jupyter,r,python" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,vscode,github,java,cpp,colab,r,python" />
 </div>
 <br/>
 <hr/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>

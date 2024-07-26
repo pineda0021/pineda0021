@@ -78,10 +78,11 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 <br/>
 <div align="center">
     <img src="https://www.pngkit.com/png/full/22-223968_sas-logo-sas-institute-logo.png" alt="SAS" width="50" height="50" />
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,vscode,github,r,python,cpp,java,c" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,vscode,bootstrap,java,cpp,github,r,python" />
 </div>
 <br/>
 <hr/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>

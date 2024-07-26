@@ -51,9 +51,9 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 - CIS 219 - Introduction to Oracle: SQL and PL/SQL (3 units; UC/CSU)
  
 ❗ Information about **our certificate [here](https://www.lacc.edu/academics/aos/statistical-data-analytics)**
-<img src="https://drive.google.com/uc?export=view&id=1L3ELl9GdR32vkNmtL7mVLmy_wO8dDQKS" alt="QR Code" width="100" height="100" style="display: block; margin: 10px auto;" />
 
-📢 **"Unlock the world of numbers! Follow our Math Department on Instagram for important information on events, scholarships, fascinating facts, and even math jokes. Join us today and be part of the equation! Follow us on Instagram by visiting our [profile](https://www.instagram.com/lacc_math_department/) or scan the QR code above."**
+📢 **"Unlock the world of numbers! Follow our Math Department on Instagram for important information on events, scholarships, fascinating facts, and even math jokes. Join us today and be part of the equation! Follow us on Instagram by visiting our [profile](https://www.instagram.com/lacc_math_department/) or scan the QR code below."**
+<img src="https://drive.google.com/uc?export=view&id=1L3ELl9GdR32vkNmtL7mVLmy_wO8dDQKS" alt="QR Code" width="300" height="300" style="display: block; margin: 10px auto;" />
 
 🌱 I’m currently learning **Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI), and Amazon Web Services (AWS)**
 

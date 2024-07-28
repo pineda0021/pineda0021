@@ -56,7 +56,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 
 <img src="https://drive.google.com/uc?export=view&id=1L3ELl9GdR32vkNmtL7mVLmy_wO8dDQKS" alt="QR Code" width="300" height="300" style="display: block; margin: 10px auto;" />
 
-🌱 I’m currently learning **Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI), and Amazon Web Services (AWS)**
+🌱 I’m currently learning **Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI), and Amazon Web Services (AWS).**
 
 ⚡ Fun fact: **The Aztecs developed a sophisticated number system that used dots (•) to represent 1, bars (—) to represent 5, and a symbol resembling a flag for 20. This vigesimal (base-20) system allowed them to perform complex mathematical calculations and keep accurate records for trade, astronomy, and engineering projects.**
 

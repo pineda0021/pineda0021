@@ -28,14 +28,13 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
   
   The Mathematics Department is pleased to offer the following course:
   
-  **MATH 217**
-  - **Schedule:** TBA
+  **MATH 217** - **Schedule:** TBA
   
-  **MATH 229**
-  - **Schedule:** TBA
+  **MATH 229** - **Schedule:** TBA
 
 **Spring - Year One:**
 
+- Math 229 - Statistics for Data Science (4 units; UC/CSU)
 - Math 239 - Applied Data Science (4 units; UC/CSU)
 - Math 279 - Linear Algebra for Data Science (4 units; UC/CSU)
 - CIS 219 - Introduction to Oracle: SQL and PL/SQL (3 units; UC/CSU)
@@ -53,7 +52,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
     **Format:** Hyflex (in-person at FH 119 or online) 
   
   **MATH 229**
-  - **Schedule 1:** Monday/Wednesday, 11:10 AM - 1:45 PM  
+  - **Schedule 1:** Monday/Wednesday, 11:10 AM - 1:35 PM  
     **Format:** Hyflex (in-person at FH 119 or online) 
   - **Schedule 2:** Tuesday/Thursday, 9:35 AM - 12:05 PM  
     **Format:** Hyflex (in-person at FH 119 or online)  

@@ -21,28 +21,17 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 **Fall - Year One:**
 
 - Math 217 - Fundamentals of Mathematical Programming (4 units; UC/CSU)
-  
-  **Fall 2024 Course Offering:**
-  
-  The Mathematics Department is pleased to offer the following course:
-  
-  **MATH 217**
-  - **Schedule:** Monday/Wednesday, 6:50 PM - 9:15 PM  
-  - **Format:** Synchronous, via Zoom  
-  - **Section Number:** 25437
-
 - Math 229 - Statistics for Data Science (4 units; UC/CSU)
   
   **Fall 2025 Course Offering:**
   
   The Mathematics Department is pleased to offer the following course:
   
+  **MATH 217**
+  - **Schedule:** TBA
+  
   **MATH 229**
-  - **Schedule 1:** To be announced 
-    **Format:** Synchronous, via Zoom  
-  - **Schedule 2:** To be announced
-    **Format:** Hyflex (in-person at FH 119 or online)  
-    The **Hyflex** format allows students to choose between attending classes on campus or participating remotely from home, providing greater flexibility to suit their schedules and preferences.
+  - **Schedule:** TBA
 
 **Spring - Year One:**
 
@@ -64,7 +53,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
   
   **MATH 229**
   - **Schedule 1:** Monday/Wednesday, 11:10 AM - 1:45 PM  
-    **Format:** Synchronous, via Zoom  
+    **Format:** Hyflex (in-person at FH 119 or online) 
   - **Schedule 2:** Tuesday/Thursday, 9:35 AM - 12:05 PM  
     **Format:** Hyflex (in-person at FH 119 or online)  
     The **Hyflex** format allows students to choose between attending classes on campus or participating remotely from home, providing greater flexibility to suit their schedules and preferences.

@@ -22,6 +22,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 
 - Math 217 - Fundamentals of Mathematical Programming (4 units; UC/CSU)
 - Math 229 - Statistics for Data Science (4 units; UC/CSU)
+- CIS 219 - Introduction to Oracle: SQL and PL/SQL (3 units; UC/CSU)
   
   **Fall 2025 Course Offering:**
   
@@ -47,7 +48,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
   - **Schedule:** Monday/Wednesday, 9:30 AM - 12:05 PM  
     **Format:** Synchronous, via Zoom
 
-    **MATH 239**
+  **MATH 239**
   - **Schedule:** Tuesday/Thursday, 4:00 PM - 6:35 PM  
     **Format:** Hyflex (in-person at FH 119 or online) 
   

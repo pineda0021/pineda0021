@@ -33,14 +33,14 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 
 - Math 229 - Statistics for Data Science (4 units; UC/CSU)
   
-  **Fall 2024 Course Offering:**
+  **Fall 2025 Course Offering:**
   
   The Mathematics Department is pleased to offer the following course:
   
   **MATH 229**
-  - **Schedule 1:** Monday/Wednesday, 4:00 PM - 6:35 PM  
+  - **Schedule 1:** To be announced 
     **Format:** Synchronous, via Zoom  
-  - **Schedule 2:** Monday/Wednesday, 11:10 AM - 1:40 PM  
+  - **Schedule 2:** To be announced
     **Format:** Hyflex (in-person at FH 119 or online)  
     The **Hyflex** format allows students to choose between attending classes on campus or participating remotely from home, providing greater flexibility to suit their schedules and preferences.
 
@@ -49,6 +49,25 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 - Math 239 - Applied Data Science (4 units; UC/CSU)
 - Math 279 - Linear Algebra for Data Science (4 units; UC/CSU)
 - CIS 219 - Introduction to Oracle: SQL and PL/SQL (3 units; UC/CSU)
+
+   **Spring 2025 Course Offering:**
+  
+  The Mathematics Department is pleased to offer the following course:
+
+  **MATH 279**
+  - **Schedule:** Monday/Wednesday, 9:30 AM - 12:05 PM  
+    **Format:** Synchronous, via Zoom
+
+    **MATH 239**
+  - **Schedule:** Tuesday/Thursday, 4:00 PM - 6:35 PM  
+    **Format:** Hyflex (in-person at FH 119 or online) 
+  
+  **MATH 229**
+  - **Schedule 1:** Monday/Wednesday, 11:10 AM - 1:45 PM  
+    **Format:** Synchronous, via Zoom  
+  - **Schedule 2:** Tuesday/Thursday, 9:35 AM - 12:05 PM  
+    **Format:** Hyflex (in-person at FH 119 or online)  
+    The **Hyflex** format allows students to choose between attending classes on campus or participating remotely from home, providing greater flexibility to suit their schedules and preferences.
  
 ❗ Information about **our certificate [here](https://www.lacc.edu/academics/aos/statistical-data-analytics)**
 

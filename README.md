@@ -54,7 +54,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
   **MATH 229**
   - **Schedule 1:** Monday/Wednesday, 11:10 AM - 1:35 PM  
     **Format:** Hyflex (in-person at FH 119 or online) 
-  - **Schedule 2:** Tuesday/Thursday, 9:35 AM - 12:05 PM  
+  - **Schedule 2:** Tuesday/Thursday, 9:35 AM - 12:00 PM  
     **Format:** Hyflex (in-person at FH 119 or online)  
     The **Hyflex** format allows students to choose between attending classes on campus or participating remotely from home, providing greater flexibility to suit their schedules and preferences.
  

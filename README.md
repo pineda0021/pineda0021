@@ -44,7 +44,7 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
   The Mathematics Department is pleased to offer the following course:
 
   **MATH 279**
-  - **Schedule:** Monday/Wednesday, 9:30 AM - 12:05 PM  
+  - **Schedule:** Monday/Wednesday, 9:35 AM - 12:00 PM  
     **Format:** Synchronous, via Zoom
 
   **MATH 239**

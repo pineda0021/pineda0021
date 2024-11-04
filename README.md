@@ -57,7 +57,14 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
   - **Schedule 2:** Tuesday/Thursday, 9:35 AM - 12:00 PM  
     **Format:** Hyflex (in-person at FH 119 or online)  
     The **Hyflex** format allows students to choose between attending classes on campus or participating remotely from home, providing greater flexibility to suit their schedules and preferences.
+    
+  The Computer Science Department is pleased to offer the following course:
+
+   **CIS 219**
+  - **Format:** Asynchronous 
+    **Lab:** Synchronous on Saturday, 9:00 AM - 12:10 PM
  
+    
 ❗ Information about **our certificate [here](https://www.lacc.edu/academics/aos/statistical-data-analytics)**
 
 📢 **"Unlock the world of numbers! Follow our Math Department on Instagram for important information on events, scholarships, fascinating facts, and even math jokes. Join us today and be part of the equation! Follow us on Instagram by visiting our [profile](https://www.instagram.com/lacc_math_department/) or scan the QR code below."**

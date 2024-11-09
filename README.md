@@ -39,11 +39,19 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 - Math 279 - Linear Algebra for Data Science (4 units; UC/CSU)
 - CIS 219 - Introduction to Oracle: SQL and PL/SQL (3 units; UC/CSU)
 
-   **Spring 2025 Course Offering:**
+   **Winter 2025 Course Offering:**
   
   The Mathematics Department is pleased to offer the following course:
 
-  **MATH 279**
+  **MATH 229**
+  - **Schedule:** Monday-Thursday, 90:00 AM - 1:10 PM  
+    **Format:** Synchronous, via Zoom 
+
+  **Spring 2025 Course Offering:**
+  
+  The Mathematics Department is pleased to offer the following course:
+
+   **MATH 279**
   - **Schedule:** Monday/Wednesday, 9:35 AM - 12:00 PM  
     **Format:** Synchronous, via Zoom
 

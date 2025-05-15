@@ -28,9 +28,13 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
   
   The Mathematics Department is pleased to offer the following course:
   
-  **MATH 217** - **Schedule:** TBA
+  **MATH 217** - **Schedule:** 
+  **Schedule:** Monday/Wednesday, 6:50 PM - 9:15 PM  
+    **Format:** Synchronous, via Zoom
   
-  **MATH 229** - **Schedule:** TBA
+  **MATH 229** - **Schedule:**
+   **Schedule:** Monday/Wednesday, 4:00 PM - 6:25 PM  
+    **Format:** Synchronous, via Zoom 
 
 **Spring - Year One:**
 
@@ -43,34 +47,28 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
   
   The Mathematics Department is pleased to offer the following course:
 
-  **MATH 229**
-  - **Schedule:** Monday-Thursday, 90:00 AM - 1:10 PM  
-    **Format:** Synchronous, via Zoom 
+**Summer - 2025:**
+  **MATH 217** - **Schedule:** 
+  **Schedule:** Tuesday/Thursday, 9:50 AM - 3:10 PM  
+    **Format:** Hyflex (in-person at FH 119 or online)
+    The **Hyflex** format allows students to choose between attending classes on campus or participating remotely from home, providing greater flexibility to suit their schedules and preferences.
 
   **Spring 2025 Course Offering:**
   
   The Mathematics Department is pleased to offer the following course:
 
-   **MATH 279**
-  - **Schedule:** Monday/Wednesday, 9:35 AM - 12:00 PM  
-    **Format:** Synchronous, via Zoom
+   **MATH 279** TBA
 
-  **MATH 239**
-  - **Schedule:** Tuesday/Thursday, 4:00 PM - 6:35 PM  
-    **Format:** Hyflex (in-person at FH 119 or online) 
+
+  **MATH 239** TBA
   
-  **MATH 229**
-  - **Schedule 1:** Monday/Wednesday, 11:10 AM - 1:35 PM  
-    **Format:** Hyflex (in-person at FH 119 or online) 
-  - **Schedule 2:** Tuesday/Thursday, 9:35 AM - 12:00 PM  
-    **Format:** Hyflex (in-person at FH 119 or online)  
-    The **Hyflex** format allows students to choose between attending classes on campus or participating remotely from home, providing greater flexibility to suit their schedules and preferences.
+  
+  **MATH 229** TBA
+  
     
   The Computer Science Department is pleased to offer the following course:
 
-   **CIS 219**
-  - **Format:** Asynchronous 
-    **Lab:** Synchronous on Saturday, 9:00 AM - 12:10 PM
+   **CIS 219** TBA
  
     
 ❗ Information about **our certificate [here](https://www.lacc.edu/academics/aos/statistical-data-analytics)**

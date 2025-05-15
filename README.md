@@ -44,10 +44,14 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
 - CIS 219 - Introduction to Oracle: SQL and PL/SQL (3 units; UC/CSU)
 
    **Winter 2025 Course Offering:**
-  
+
   The Mathematics Department is pleased to offer the following course:
 
+  TBA
+
   **Summer 2025 Course Offering:**
+
+  The Mathematics Department is pleased to offer the following course:
   
   **MATH 217** - **Schedule:** 
   **Schedule:** Tuesday/Thursday, 9:50 AM - 3:10 PM  

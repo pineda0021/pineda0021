@@ -46,8 +46,8 @@ Our Certificate under the Mathematics Department consists of only 19 units for c
    **Winter 2025 Course Offering:**
   
   The Mathematics Department is pleased to offer the following course:
-   **Summer 2025 Course Offering:**
 
+  **Summer 2025 Course Offering:**
   **MATH 217** - **Schedule:** 
   **Schedule:** Tuesday/Thursday, 9:50 AM - 3:10 PM  
     **Format:** Hyflex (in-person at FH 119 or online)
